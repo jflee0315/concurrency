@@ -1,1 +1,1 @@
-Run the test/concurrency/Test.java in eclipse
+Compile and run the test/concurrency/Test.java
